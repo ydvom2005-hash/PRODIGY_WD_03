@@ -13,7 +13,7 @@ The game supports **2-Player mode** and **Player vs Computer mode** with **Easy,
 ---
 
 ## 📂 GitHub Repository
-👉 https://github.com/your-username/repository-name
+👉[ https://github.com/your-username/repository-name](https://github.com/ydvom2005-hash/PRODIGY_WD_03)
 
 ---
 
