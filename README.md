@@ -8,12 +8,12 @@ The game supports **2-Player mode** and **Player vs Computer mode** with **Easy,
 ---
 
 ## 🚀 Live Demo
-👉 https://your-username.github.io/repository-name/
+👉 https://ydvom2005-hash.github.io/PRODIGY_WD_03/
 
 ---
 
 ## 📂 GitHub Repository
-👉[ https://github.com/your-username/repository-name](https://github.com/ydvom2005-hash/PRODIGY_WD_03)
+👉 https://github.com/ydvom2005-hash/PRODIGY_WD_03
 
 ---
 
